@@ -67,7 +67,7 @@
                     <executable>java</executable>
                     <arguments>
                         <argument>-cp</argument>
-                        <classpath />
+                        <classpath/>
                         <argument>Pipe</argument>
                     </arguments>
                 </configuration>
@@ -219,7 +219,7 @@
         <dependency>
             <groupId>org.apache.poi</groupId>
             <artifactId>poi-scratchpad</artifactId>
-            <version>3.7</version>
+            <version>3.17</version>
         </dependency>
 
         <dependency>
