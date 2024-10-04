@@ -67,7 +67,7 @@
                     <executable>java</executable>
                     <arguments>
                         <argument>-cp</argument>
-                        <classpath />
+                        <classpath/>
                         <argument>Pipe</argument>
                     </arguments>
                 </configuration>
@@ -261,7 +261,7 @@
         <dependency>
             <groupId>commons-io</groupId>
             <artifactId>commons-io</artifactId>
-            <version>2.1</version>
+            <version>2.14.0</version>
         </dependency>
 
         <dependency>
